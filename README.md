@@ -150,3 +150,4 @@ KPI Analysis
 Trend Analysis
 
 Dashboard Reporting
+<img width="1031" height="589" alt="image" src="https://github.com/user-attachments/assets/3553e60a-8a26-402b-8f7b-d1c8ddb04492" />
